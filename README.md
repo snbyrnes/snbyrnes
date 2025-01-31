@@ -12,8 +12,8 @@
 ![Python](https://img.shields.io/badge/SNOMED-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/HL7_FHIR-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=SNOMED-CT&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=HL7_FHIR-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/SNOMED-CT-2496ED?style=for-the-badge&logo=SNOMED-CT&logoColor=white)
+![AWS](https://img.shields.io/badge/HL7_FHIR-232F3E?style=for-the-badge&logo=HL7_FHIR-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
