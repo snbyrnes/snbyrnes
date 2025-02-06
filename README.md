@@ -2,9 +2,9 @@
 
 *README in progress*
 
-- 🌱 I’m currently working on **Medicines Interoperability** and **Clinical Informatics** projects
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Learning about **Python** and **JavaScript**
+- 🌱 I’m currently working on **Medication Management** and **Clinical Informatics** projects
+- 👯 Do a lot of work on interoperability standards (especially HL7 FHIR and SNOMED-CT)
+- 💬 Learning (badly) about **Python** and **JavaScript**
 
 
 ## 🛠️ Technologies & Tools
