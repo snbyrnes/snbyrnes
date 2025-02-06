@@ -7,7 +7,7 @@
 - 💬 Trying to figure out **Python** and **JavaScript**
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Areas of Interest
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,9 +31,5 @@
 - **[Open Source Project](https://github.com/opensource/project):** Contributed to fixing bugs and adding new features.
 - **[Another Open Source Project](https://github.com/opensource/another-project):** Worked on documentation and code refactoring.
 
-## 📝 Blog Posts
-
-- **[Title of Blog Post](https://yourblog.com/title-of-blog-post):** A brief description of what this blog post is about. (Date)
-- **[Another Blog Post](https://yourblog.com/another-blog-post):** A brief description of another blog post. (Date)
 
 
