@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently working on **Medication Management** and **Clinical Informatics** projects
-- 👯 Spend time on interoperability standards (especially HL7 FHIR and SNOMED-CT)
+- 👯 Spend time on interoperability standards (mainly HL7 FHIR and SNOMED-CT)
 - 💬 Trying to figure out **Python** and **JavaScript**
 
 
