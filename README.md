@@ -2,7 +2,7 @@
 
 -  Working on **Medication Management** and **Clinical Informatics** projects
 -  Spend time on health interoperability standards
--  Trying to figure out **Python** and **JavaScript**
+-  Trying out **Python** and **JavaScript**
 
 
 ## 🛠️ Areas of Interest
