@@ -12,8 +12,3 @@
 ![Docker](https://img.shields.io/badge/SNOMED-CT-2496ED?style=for-the-badge&logo=SNOMED-CT&logoColor=white)
 ![AWS](https://img.shields.io/badge/HL7_FHIR-232F3E?style=for-the-badge&logo=HL7_FHIR-aws&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=snbyrnes&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snbyrnes&layout=compact&theme=radical)
